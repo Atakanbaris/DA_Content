@@ -1,4 +1,4 @@
-## SQL TASK 3
+# SQL TASK 3
 ## 1
 SELECT country FROM country
 WHERE country LIKE 'A%a';
